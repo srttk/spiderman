@@ -1,7 +1,6 @@
 #-------------------------------------------------------------------------------
 # Name:        SpiderManLinks
 # Purpose:	   Finding and logging links of a URL.
-#
 # Author:      Sarath Kumar
 # Web    :     www.iamsarath.blogspot.com
 # Created:     01/Septemper/2012
