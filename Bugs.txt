@@ -1,3 +1,1 @@
-{#222
-1.0 links like ''?p=45212"
-}
+#001 : Problem when extracting internal links linke(#link).
