@@ -1,0 +1,13 @@
+#1.0.1	8:52 AM 3/5/2013
+	* passing values using command line parameters
+	* url and file name
+#1.0:	6:15 AM 3/5/2013
+--------------------------
+Added Eception case while the invalid URL or Not conneted to internet
+Save all links to a text file 'links.txt'
+Changed display style using tab
+
+#0.0	01-Sep-2012
+--------------------------
+ Only Display the links (Link text and URL)
+Console input method
