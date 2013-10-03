@@ -1,1 +1,2 @@
 #001 : Problem when extracting internal links linke(#link).
+#002 : Unecepted eception 
